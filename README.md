@@ -38,8 +38,8 @@ The base URL for the API is `https://split-w3fz.onrender.com`.
 
 A comprehensive Postman collection with pre-populated data and examples for all endpoints is available. This is the primary resource for testing and understanding API usage.
 
-*   **Access the Collection:** [YOUR_PUBLIC_GIST_LINK_HERE]
-    *   Import the JSON file into Postman. The `{{https://gist.github.com/ganesh0706patil/2842bfbc2900697af44349276dafdda7}}` is pre-configured.
+*   **Access the Collection:** [https://gist.github.com/ganesh0706patil/2842bfbc2900697af44349276dafdda7]
+    *   Import the JSON file into Postman. The `{{Expense Splitter API}}` is pre-configured.
 
 ## Local Development Setup
 
