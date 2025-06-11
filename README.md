@@ -3,6 +3,7 @@
 This Spring Boot backend system helps groups split expenses fairly and calculate settlements. It tracks who paid for what and determines who owes whom.
 
 **Deployed Application URL:** `https://split-w3fz.onrender.com`
+*(Note: As this application is hosted on Render's free tier, it may take up to a minute to start if it has been inactive for 15 minutes. Please be patient on the first request after a period of inactivity.)*
 
 ## Core Features
 
