@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>split-app</artifactId>
+	<artifactId>splitapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>split-app</name>
+	<name>splitapp</name>
 	<description>Backend for a Split Expense Application</description>
 	<properties>
 		<java.version>17</java.version>
@@ -22,6 +22,10 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-rest</artifactId>
 		</dependency>
 		<!-- For database interaction with JPA/Hibernate -->
 		<dependency>
